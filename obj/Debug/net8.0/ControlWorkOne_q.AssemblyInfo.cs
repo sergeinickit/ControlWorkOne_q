@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ControlWorkOne_q")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a2abdfab7e8d9bbefd948f3dbaaf5de0d67dded")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e3df2faed34b72d4651459abc30a67128fc4088")]
 [assembly: System.Reflection.AssemblyProductAttribute("ControlWorkOne_q")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ControlWorkOne_q")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

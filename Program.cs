@@ -21,5 +21,17 @@ class Program
         {
              System.Console.Write(item + " "); 
         }
-
     }
+ 
+    static string[] NewArrayString(string[] source)
+    {
+        int size = 0;
+        
+        for (int i = 0; i < source.Length; i++)
+        {
+            if(source[i].Length <= 3)
+            {
+                size ++;
+            }    
+        }
+

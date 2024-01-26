@@ -10,3 +10,16 @@ class Program
         
         string[] source = {"Привет", "Мир", "364!", "Z","22","Груша"};
         string[] result = NewArrayString(source);
+
+        foreach (var item in source)
+        {
+             System.Console.Write(item + " ");
+        }
+        System.Console.WriteLine();
+
+        foreach (var item in result)
+        {
+             System.Console.Write(item + " "); 
+        }
+
+    }

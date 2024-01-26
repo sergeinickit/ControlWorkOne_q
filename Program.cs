@@ -35,3 +35,20 @@ class Program
             }    
         }
 
+              string[] result = new string[size];
+        int index = 0;
+
+        for (int i = 0; i < source.Length; i++)
+        {
+            if(source[i].Length <= 3)
+            {
+                result[index] = source[i];
+                index ++;
+            } 
+        }
+        return result;
+    }
+  
+}
+
+
